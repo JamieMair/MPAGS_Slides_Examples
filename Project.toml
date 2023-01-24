@@ -1,0 +1,8 @@
+name = "MPAGS_Slides_Examples"
+uuid = "7a69a72a-bc36-4615-8c9f-ad5fd9e9b47b"
+authors = ["Jamie Mair <JamieMair@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+PProf = "e4faabce-9ead-11e9-39d9-4379958e3056"
+Profile = "9abbd945-dff8-562f-b5e8-e1ebf5ef1b79"
